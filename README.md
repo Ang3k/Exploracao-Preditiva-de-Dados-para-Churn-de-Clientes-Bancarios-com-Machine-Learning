@@ -1,7 +1,8 @@
 # Churn_Prediction
  
-Objetivos:
-    Analise Exploratoria de Dados para gerar Insights rapidos
-    Identificar Principais Fatores de churn
-    Criar um modelo para prever com variaveis úteis
+### Objetivos:
+    -- Gerar uma EDA bonita e informativa [33%]
+    -- Limpar bem os dados tirando outliers e etc [0%]
+    -- Testar todos os principais modelos para classificação [0%]
+    -- Tunar o melhor modelo padrão [0%]
     
