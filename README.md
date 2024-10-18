@@ -7,8 +7,8 @@
 
 - **Limpar bem os dados, removendo outliers, e realizando outras correções necessárias** - **[99%]**
 
-- **Testar os principais modelos de classificação** - **[60%]**
+- **Testar os principais modelos de classificação** - **[99%]**
 
-- **Aprimorar (tunagem) o melhor modelo identificado** - **[60%]**
+- **Aprimorar (tunagem) o melhor modelo identificado** - **[99%]**
 
-    
+- **Revisão do Código e adições** - **[99%]**
