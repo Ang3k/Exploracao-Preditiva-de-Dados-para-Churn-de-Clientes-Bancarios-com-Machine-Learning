@@ -29,9 +29,9 @@ Os hiperparâmetros foram ajustados utilizando `GridSearchCV` nos seguintes mode
 ## Avaliação de Performance
 A métrica principal utilizada foi a **precisão**. Após o tuning dos modelos, os seguintes resultados foram obtidos:
 
-- **DecisionTreeClassifier**: XX.XX% de precisão
-- **RandomForestClassifier**: XX.XX% de precisão
-- **XGBoost**: XX.XX% de precisão
+- **DecisionTreeClassifier**: 94.332% de precisão
+- **RandomForestClassifier**: 96.303% de precisão
+- **XGBoost**: 97.243% de precisão
 
 ## Visualizações
 - **Importância das Features**: Gráficos de barras mostrando a importância das variáveis para cada modelo.
